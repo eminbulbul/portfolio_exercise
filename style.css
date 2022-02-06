@@ -10,7 +10,8 @@ a {
 }
 
 html {
-    font-family: 'Yellowtail', cursive;
+    
+    font-family: 'Francois One', sans-serif;
 }
 
 .text-center {
@@ -19,6 +20,7 @@ html {
 
 .heading-small {
     font-size: 1.25rem;
+    
 }
 
 .heading-medium {
@@ -27,6 +29,7 @@ html {
 
 .heading-big {
     font-size: 1.75rem;
+    font-family: 'Yellowtail', cursive;
 }
 
 
@@ -149,7 +152,7 @@ html {
 }
 
 #training .items .item:hover {
-    color: red;
+    color: rgb(102, 255, 0);
     opacity: 0.5;
 }
 
